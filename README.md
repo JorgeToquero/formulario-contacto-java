@@ -43,7 +43,7 @@ Validación de campos:
 ![Validación](img/validacion.png)
 
 Salida guardada en fichero:  
-![Contacto guardado](img/contacto-guardado.png)
+![Contacto guardado](contacto-guardado.png)
 
 
 📂 Ejemplo de salida en contactos.txt
