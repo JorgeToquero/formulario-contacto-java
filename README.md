@@ -37,10 +37,10 @@ java formularioContacto.Inicio
 📸 Capturas
 
 Formulario vacío:  
-![Formulario](img/Formulario.png)
+![Formulario](Formulario.png)
 
 Validación de campos:  
-![Validación](img/validacion.png)
+![Validación](validacion.png)
 
 Salida guardada en fichero:  
 ![Contacto guardado](contacto-guardado.png)
