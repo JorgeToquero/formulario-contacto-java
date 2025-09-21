@@ -24,10 +24,10 @@ Permite introducir **nombre, email y mensaje**, valida los campos y guarda los d
    git clone https://github.com/JorgeToquero/formulario-contacto-java.git
    
    Compilar:
-javac src/formularioContacto/*.java
+   javac src/formularioContacto/*.java
 
-Ejecutar:
-java -cp src formularioContacto.Inicio
+  Ejecutar:
+  java -cp src formularioContacto.Inicio
 
 📸 Capturas
 
