@@ -37,7 +37,7 @@ java formularioContacto.Inicio
 📸 Capturas
 
 Formulario vacío:  
-![Formulario](img/formulario.png)
+![Formulario](img/Formulario.png)
 
 Validación de campos:  
 ![Validación](img/validacion.png)
