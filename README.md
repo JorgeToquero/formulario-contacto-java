@@ -21,10 +21,11 @@ Permite introducir **nombre, email y mensaje**, valida los campos y guarda los d
 
 ## 🚀 Ejecución
 1. Clonar el repositorio:  
-   ```bash
    git clone https://github.com/JorgeToquero/formulario-contacto-java.git
+   
    Compilar:
 javac src/formularioContacto/*.java
+
 Ejecutar:
 java -cp src formularioContacto.Inicio
 
