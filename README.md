@@ -31,7 +31,7 @@ javac src/formularioContacto/*.java
 
 Ejecutar:
 
-java formularioContacto.Inicio
+java -cp src formularioContacto.Inicio
 
 
 📸 Capturas
